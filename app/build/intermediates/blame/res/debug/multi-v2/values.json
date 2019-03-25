@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\vibin\\Documents\\Downloads\\Honeywellsdkv1.00.00.0054\\sdk\\BarcodeExample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\vibin\\Documents\\Downloads\\Honeywellsdkv1.00.00.0054\\sdk\\BarcodeExample\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,5,6,7,9,10,15,14,17,4,11,8,12,16,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "56,160,204,268,400,478,803,761,897,109,540,337,635,846,712",
+                        "endColumns": "52,43,63,68,77,61,42,41,51,50,94,62,76,50,48",
+                        "endOffsets": "104,199,263,332,473,535,841,798,944,155,630,395,707,892,756"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,108,152,216,285,363,425,460,494,546,597,692,755,832,883",
+                        "endColumns": "52,43,63,68,77,61,34,33,51,50,94,62,76,50,48",
+                        "endOffsets": "103,147,211,280,358,420,455,489,541,592,687,750,827,878,927"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\vibin\\Documents\\Downloads\\Honeywellsdkv1.00.00.0054\\sdk\\BarcodeExample\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "17,24",
+                        "startColumns": "4,4",
+                        "startOffsets": "932,1223",
+                        "endLines": "23,26",
+                        "endColumns": "12,12",
+                        "endOffsets": "1218,1378"
+                    }
+                }
+            ]
+        }
+    ]
+}

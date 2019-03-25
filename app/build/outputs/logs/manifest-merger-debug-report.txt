@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:2:1-48:12
+MERGED from [:DataCollectionLib] C:\Users\vibin\.gradle\caches\transforms-1\files-1.1\DataCollection.aar\2e1ff51f8d681e42019fe6500fd25b56\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:2:1-48:12
+	package
+		ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:2:137-168
+		INJECTED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:2:102-136
+		INJECTED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:2:70-101
+		INJECTED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:4:5-46
+INJECTED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:4:5-46
+INJECTED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:4:5-46
+MERGED from [:DataCollectionLib] C:\Users\vibin\.gradle\caches\transforms-1\files-1.1\DataCollection.aar\2e1ff51f8d681e42019fe6500fd25b56\AndroidManifest.xml:7:5-9:41
+MERGED from [:DataCollectionLib] C:\Users\vibin\.gradle\caches\transforms-1\files-1.1\DataCollection.aar\2e1ff51f8d681e42019fe6500fd25b56\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:4:5-46
+INJECTED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:4:5-46
+	android:targetSdkVersion
+		ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:4:15-44
+		INJECTED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:4:5-46
+		INJECTED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:5:5-74
+	android:name
+		ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:5:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:6:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#com.honeywell.decode.permission.DECODE
+ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:8:5-78
+MERGED from [:DataCollectionLib] C:\Users\vibin\.gradle\caches\transforms-1\files-1.1\DataCollection.aar\2e1ff51f8d681e42019fe6500fd25b56\AndroidManifest.xml:11:5-78
+MERGED from [:DataCollectionLib] C:\Users\vibin\.gradle\caches\transforms-1\files-1.1\DataCollection.aar\2e1ff51f8d681e42019fe6500fd25b56\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:8:22-75
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:11:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:12:22-72
+application
+ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:14:5-46:19
+MERGED from [:DataCollectionLib] C:\Users\vibin\.gradle\caches\transforms-1\files-1.1\DataCollection.aar\2e1ff51f8d681e42019fe6500fd25b56\AndroidManifest.xml:13:5-17:19
+MERGED from [:DataCollectionLib] C:\Users\vibin\.gradle\caches\transforms-1\files-1.1\DataCollection.aar\2e1ff51f8d681e42019fe6500fd25b56\AndroidManifest.xml:13:5-17:19
+	android:label
+		ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:14:91-123
+	android:debuggable
+		ADDED from [:DataCollectionLib] C:\Users\vibin\.gradle\caches\transforms-1\files-1.1\DataCollection.aar\2e1ff51f8d681e42019fe6500fd25b56\AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:14:45-90
+	android:allowBackup
+		ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:14:18-44
+	android:theme
+		ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:14:124-155
+activity#com.honeywell.barcode.MainActivity
+ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:screenOrientation
+		ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:15:102-138
+	android:label
+		ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:15:19-51
+	android:name
+		ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:15:52-101
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:17:17-68
+	android:name
+		ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.honeywell.barcode.AutomaticBarcodeActivity
+ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:22:9-28:20
+	android:screenOrientation
+		ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:22:113-149
+	android:label
+		ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:22:19-50
+	android:name
+		ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:22:51-112
+intent-filter#action:name:android.intent.action.AUTOMATICBARCODEACTIVITY+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.AUTOMATICBARCODEACTIVITY
+ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:24:17-88
+	android:name
+		ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:24:25-86
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:26:17-75
+	android:name
+		ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:26:27-73
+activity#com.honeywell.barcode.ClientBarcodeActivity
+ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:29:9-35:20
+	android:screenOrientation
+		ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:29:110-146
+	android:label
+		ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:29:19-50
+	android:name
+		ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:29:51-109
+intent-filter#action:name:android.intent.action.CLIENTBARCODEACTIVITY+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:30:13-34:29
+action#android.intent.action.CLIENTBARCODEACTIVITY
+ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:31:17-85
+	android:name
+		ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:31:25-83
+activity#com.honeywell.barcode.ScannerSelectionBarcodeActivity
+ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:36:9-42:20
+	android:screenOrientation
+		ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:36:120-156
+	android:label
+		ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:36:19-50
+	android:name
+		ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:36:51-119
+intent-filter#action:name:android.intent.action.SCANNERSELECTBARCODEACTIVITY+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:37:13-41:29
+action#android.intent.action.SCANNERSELECTBARCODEACTIVITY
+ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:38:17-92
+	android:name
+		ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:38:25-90
+activity#com.honeywell.barcode.DeviceListActivity
+ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:43:9-45:82
+	android:theme
+		ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:45:13-70
+	android:name
+		ADDED from C:\Users\vibin\Documents\Downloads\Honeywellsdkv1.00.00.0054\sdk\BarcodeExample\app\src\main\AndroidManifest.xml:44:13-46
